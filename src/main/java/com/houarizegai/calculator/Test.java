@@ -36,5 +36,8 @@ public class Test {
         // Asymmetric Private Key
         private static final String ASYMMETRIC_PRIVATE_KEY = "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKptZ+CHU6H/sU\ns3dvmwLs2y17x/aRPKvEsGImJiR53hruZTjTzzTf8fTRzHsbQ2sKcOq3gJ8nbk45\nTSLT9O9RdMsnmyFLrTFxz0GzrTTA0fDlUly1CwiZk6UZ/l6X9dkE2FXeBxudj5S7\n92o5wTC2QqdMpbm4nM4Mfij9pxmLzhafyjW1yv7R+RIMwDtlIaZtWzNtQkZb9q3t\np8WbvnfOwu+Rkpp42w7PTj8WtOloDQIY9t3q3tF8zS5jDv5P5LkUp5QnzJGZB0jV\nbk9itf+7VcaLxU+PbUJdLCmIV1fjZ1MBU6HqbU6Y9XbnxEb2L21+tzNl72ckz/MN\n3qJ3PM+NAgMBAAECggEBAJXnJlNLPW6zrU0r0U6G+ouBywNhUZJ0U6OK9c"
 
+        private static final String USER_DNAME = "abcdefghijklopmn";
+
+        private static final String KEY = "abcdefghijklopmn";
     }
 }
